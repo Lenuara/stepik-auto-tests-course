@@ -1,3 +1,2 @@
 # stepik-auto-tests-course
-Homeworks
-test test test
+Учусь писать автотесты на питоне
